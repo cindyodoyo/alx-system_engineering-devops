@@ -1,1 +1,1 @@
-readme file for shell basics
+readme file for basic shell programming
